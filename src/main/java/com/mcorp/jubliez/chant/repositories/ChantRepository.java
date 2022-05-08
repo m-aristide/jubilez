@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.mcorp.jubliez.chants.repositories;
+package com.mcorp.jubliez.chant.repositories;
 
-import com.mcorp.jubliez.chants.entities.Chant;
+import com.mcorp.jubliez.chant.entities.Chant;
 import org.springframework.data.repository.reactive.ReactiveCrudRepository;
 import org.springframework.stereotype.Repository;
 
